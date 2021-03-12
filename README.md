@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daveverweg
-- 👀 I’m interested in Cosmology, Mathematics and Econometrics.
+- 👀 I’m interested in [Cosmology](https://www.sciencenews.org/topic/cosmology), [Mathematics](https://phys.org/science-news/mathematics/) and Econometrics.
 - 🌱 I’m currently studying Relativistic Cosmology.
-- 💞️ I’m looking to working on a project related to the Backreaction effect in Cosmology.
+- 💞️ I’m looking to working on a project to forecast stocks by applying [wavelet decompositions](https://www.sciencedirect.com/topics/computer-science/wavelet-decomposition).
 - 📫 You can reach me at d.b.h.verweg@student.rug.nl.
