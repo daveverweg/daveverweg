@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @daveverweg
+- 👀 I’m interested in Cosmology, Mathematics and Econometrics.
+- 🌱 I’m currently studying Relativistic Cosmology.
+- 💞️ I’m looking to working on a project related to the Backreaction effect in Cosmology.
+- 📫 You can reach me at d.b.h.verweg@student.rug.nl.
