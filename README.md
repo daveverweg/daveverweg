@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daveverweg
 - 👀 I’m interested in [Cosmology](https://www.sciencenews.org/topic/cosmology), [Mathematics](https://phys.org/science-news/mathematics/) and [Econometrics](https://www2.econ.osaka-u.ac.jp/~tanizaki/cv/books/cmse/cmse.pdf).
 - 🌱 I’m currently studying [Relativistic Cosmology](http://strangebeautiful.com/other-texts/ellis-maartens-maccallum-relativistic-cosmo.pdf).
-- 💞️ I’m looking to working on a project to forecast stocks by applying [wavelet decompositions](https://www.sciencedirect.com/topics/computer-science/wavelet-decomposition).
-- 📫 You can reach me at d.b.h.verweg@student.rug.nl.
+- 💞️ I’m looking into a project on AI models for personalized healthcare.
+- 📫 You can reach me at dave@health-way.
